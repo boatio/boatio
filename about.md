@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: 정보
 permalink: /about/
 ---
 
-Some information about you!
+프로그래밍은 인생이다.
 
-### More Information
+### 상세 정보
 
-A place to include any other types of information that you'd like to include about yourself.
+프로그래밍을 좋아하는 학생 보트
 
-### Contact me
+### 이메일
 
-[email@domain.com](mailto:email@domain.com)
+[usbjewon@google.com](mailto:usbjewon@google.com)
